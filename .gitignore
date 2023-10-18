@@ -3,4 +3,5 @@
 *.pyc
 *.npy
 *.model
+*.json
 
