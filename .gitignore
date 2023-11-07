@@ -4,4 +4,5 @@
 *.npy
 *.model
 *.json
-
+*.pkl
+/old_code
